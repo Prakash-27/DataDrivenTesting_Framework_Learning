@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-08T07:50:33 GMT-05:00" name="Default suite" finished-at="2022-01-08T07:51:15 GMT-05:00" duration-ms="42093">
+    <groups>
+    </groups>
+    <test started-at="2022-01-08T07:50:33 GMT-05:00" name="Default test" finished-at="2022-01-08T07:51:15 GMT-05:00" duration-ms="42093">
+      <class name="DataDrivenTest.DataDrivenFrameworkConceptInTestNG">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:DataDrivenTest.DataDrivenFrameworkConceptInTestNG@72e5a8e]" started-at="2022-01-08T07:50:35 GMT-05:00" name="setUp" finished-at="2022-01-08T07:50:49 GMT-05:00" duration-ms="14319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="AutomationPracticeSignInTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:DataDrivenTest.DataDrivenFrameworkConceptInTestNG@72e5a8e]" started-at="2022-01-08T07:50:49 GMT-05:00" name="AutomationPracticeSignInTest" data-provider="getTestData" finished-at="2022-01-08T07:50:55 GMT-05:00" duration-ms="5961" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tom]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Peter]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TomPeter123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[zoho]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[sunnyvale,12 avenve, zoho]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[peterparker,12thfloor,6thunit,roomno230]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[sunnyvale]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[653970.0]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[hi hello]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[5332464.0]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[7.645738921E9]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[My address]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AutomationPracticeSignInTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:DataDrivenTest.DataDrivenFrameworkConceptInTestNG@72e5a8e]" started-at="2022-01-08T07:50:55 GMT-05:00" name="tearDown" finished-at="2022-01-08T07:50:56 GMT-05:00" duration-ms="383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:DataDrivenTest.DataDrivenFrameworkConceptInTestNG@72e5a8e]" started-at="2022-01-08T07:50:56 GMT-05:00" name="setUp" finished-at="2022-01-08T07:51:08 GMT-05:00" duration-ms="12211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="AutomationPracticeSignInTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:DataDrivenTest.DataDrivenFrameworkConceptInTestNG@72e5a8e]" started-at="2022-01-08T07:51:08 GMT-05:00" name="AutomationPracticeSignInTest" data-provider="getTestData" finished-at="2022-01-08T07:51:14 GMT-05:00" duration-ms="5737" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jerry]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Staurt]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[JerryStaurt234]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[TCS]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[sunnyvale,13 avenve, TCS]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Staurtparker,13thfloor,7thunit,roomno231]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Sanjose]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[7096432.0]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[iam fine]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[3456789.0]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[2.4376548797E10]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[My address and Street]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AutomationPracticeSignInTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:DataDrivenTest.DataDrivenFrameworkConceptInTestNG@72e5a8e]" started-at="2022-01-08T07:51:14 GMT-05:00" name="tearDown" finished-at="2022-01-08T07:51:15 GMT-05:00" duration-ms="1232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- DataDrivenTest.DataDrivenFrameworkConceptInTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
